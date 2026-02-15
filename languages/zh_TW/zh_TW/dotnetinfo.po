@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Cheat Engine 7.5 zh_TW\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: bbfox0703 <https://github.com/bbfox0703>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"X-Generator: Claude Code\n"
+
+#: dotnetinfo-Fctm
+msgid "Failure compiling the method"
+msgstr "編譯方法失敗"
+
+#: dotnetinfo-Fgma
+msgid "Failure getting method address"
+msgstr "取得方法位址失敗"
+
+#: dotnetinfo-Fgmfmn
+msgid "Failure getting methodid for module named "
+msgstr "無法取得名為以下模組的方法 ID："
+
+#: dotnetinfo-Tmicnj
+msgid ""
+"This method is currently not jitted. Do you wish to inject the .NET Control "
+"DLL into the target process to force it to generate an entry point for this "
+"method? (Does not work if the target is suspended)"
+msgstr "此方法目前尚未 JIT 編譯。您是否要將 .NET 控制 DLL 注入目標程式以強制產生此方法的進入點？（目標暫停時不適用）"
+
+#: dotnetinfo-Address
+msgid "Address"
+msgstr "位址"
+
+#: dotnetinfo-Offset
+msgid "Offset"
+msgstr "偏移量"
+
+#: dotnetinfo-EUs
+msgid "<Error: Unreadable string>"
+msgstr "<錯誤：無法讀取的字串>"
+
+#: dotnetinfo-Scnbw
+msgid "Strings can not be written"
+msgstr "無法寫入字串"
+
+#: dotnetinfo-Uft
+msgid "Unsupported field type"
+msgstr "不支援的欄位類型"
+
+#: dotnetinfo-vcf
+msgid "value convertor failure"
+msgstr "值轉換器失敗"
+
+#: dotnetinfo-ItNCD
+msgid "Inject the .NET Control DLL into the target process?"
+msgstr "將 .NET 控制 DLL 注入目標程式？"
+
+#: dotnetinfo-Cvo
+msgid "Change value of "
+msgstr "變更值 "
+
+#: dotnetinfo-TcsttN
+msgid ""
+"To change string types the .NET Control DLL needs to be injected into the "
+"target. Inject it?"
+msgstr "要變更字串類型，需要將 .NET 控制 DLL 注入目標。是否注入？"
+
+#: dotnetinfo-NNif
+msgid "No .NET info found"
+msgstr "找不到 .NET 資訊"
